@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Proyecto2021</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Lista de Mascotas</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="nombreusuario">Nombreusuario</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Mail">Mail</string>
+
+    <string name="gestionar_imagen">GESTIONAR IMAGEN</string>
+    <string name="selecciona_imagen">Selecciona Imagen</string>
+
+    <string name="titulo_formulario_mascota">Gestion de Publicacion</string>
+    <string name="titulo_formulario_usuario">Gestion de Usuario</string>
+    <string name="elegir_foto">Seleccione una Foto</string>
+    <string name="new_password">New Password</string>
+    <string name="nombre_dummy">Codelia</string>
+    <string name="ubicacion_dummy">Zona</string>
+    <string name="descripcion_dummy">Se llama Cheshire</string>
+
+    <string name="hint_tipo_mascota">Tipo de mascota</string>
+    <string name="hint_descripcion">Decripción</string>
+    <string name="hint_departamento">Departamento/Barrio</string>
+
+    <string name="button_login">Login</string>
+    <string name="button_registro">Registrarse</string>
+    <string name="button_modificar">Modificar</string>
+    <string name="button_eliminar">Eliminar</string>
+    <string name="button_aceptar">Aceptar</string>
+    <string name="button_cancelar">Cancelar</string>
+    <string name="button_foto">Foto</string>
+
+</resources>
